@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebAutomationProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12_April_2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12_April_2024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12_April_2024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12_April_2024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_April_2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
