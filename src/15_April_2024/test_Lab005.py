@@ -60,7 +60,7 @@ def test_task1():
 
     time.sleep(5)
 
-    text_element = driver.find_element(By.XPATH, "//div/h2")
+    text_element = driver.find_element(By.XPATH, "//div/h2")  # Absolute XPATH
     print(text_element.text)
 
     assert text_element.text == "Make Appointment"
