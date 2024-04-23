@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/19-04-2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/19-04-2024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/19-04-2024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/19-04-2024/test_Lab003.py" afterDir="false" />
+    <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="Xpath">
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_task04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/15_April_2024/test_Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,34 +42,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_Lab001.test_katalon_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab001.test_print_logs.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab002.test_loginVWO.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab003.test_loginFUnc.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab004.test_vwoLogin_negative.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab005.test_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab001.py (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab002.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab003.py (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab003.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alate/PycharmProjects/WebAutomationProject/src/19-04-2024&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_Lab001.test_katalon_login.executor": "Run",
+    "Python tests.Python tests for test_Lab001.test_print_logs.executor": "Run",
+    "Python tests.Python tests for test_Lab002.test_loginVWO.executor": "Run",
+    "Python tests.Python tests for test_Lab002.test_reg_Negative.executor": "Run",
+    "Python tests.Python tests for test_Lab002.test_registarion_Negative.executor": "Run",
+    "Python tests.Python tests for test_Lab003.test_loginFUnc.executor": "Run",
+    "Python tests.Python tests for test_Lab004.test_vwoLogin_negative.executor": "Run",
+    "Python tests.Python tests for test_Lab005.test_task1.executor": "Run",
+    "Python tests.Python tests for test_Task3.test_reg_Negative.executor": "Run",
+    "Python tests.Python tests for test_lab005.Test_loginpage.test_open_login.executor": "Run",
+    "Python tests.Python tests for test_task04.test_ebay_function.executor": "Run",
+    "Python tests.Python tests in test_Lab001.py (1).executor": "Run",
+    "Python tests.Python tests in test_Lab001.py.executor": "Run",
+    "Python tests.Python tests in test_Lab002.py.executor": "Run",
+    "Python tests.Python tests in test_Lab003.py (1).executor": "Run",
+    "Python tests.Python tests in test_Lab003.py.executor": "Run",
+    "Python tests.Python tests in test_task04.py.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/alate/PycharmProjects/WebAutomationProject/src/22-04-2024",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\22-04-2024" />
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\19-04-2024" />
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\15_April_2024" />
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\12_April_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_Lab003.py (1)">
+  <component name="RunManager" selected="Python tests.Python tests for test_Task3.test_reg_Negative">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
@@ -91,88 +99,88 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab001.test_katalon_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Task3.test_reg_Negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/19-04-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab001.test_katalon_login&quot;" />
+      <option name="_new_target" value="&quot;test_Task3.test_reg_Negative&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab003.test_loginFUnc" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab005.Test_loginpage.test_open_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/15_April_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab003.test_loginFUnc&quot;" />
+      <option name="_new_target" value="&quot;test_lab005.Test_loginpage.test_open_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab004.test_vwoLogin_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_task04.test_ebay_function" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/15_April_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab004.test_vwoLogin_negative&quot;" />
+      <option name="_new_target" value="&quot;test_task04.test_ebay_function&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab005.test_task1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Task3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/15_April_2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab005.test_task1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/22-04-2024/test_Task3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab003.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_task04.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/19-04-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/19-04-2024/test_Lab003.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/22-04-2024/test_task04.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_Lab003.py (1)" />
-        <item itemvalue="Python tests.Python tests for test_Lab001.test_katalon_login" />
-        <item itemvalue="Python tests.Python tests for test_Lab005.test_task1" />
-        <item itemvalue="Python tests.Python tests for test_Lab004.test_vwoLogin_negative" />
-        <item itemvalue="Python tests.Python tests for test_Lab003.test_loginFUnc" />
+        <item itemvalue="Python tests.Python tests for test_Task3.test_reg_Negative" />
+        <item itemvalue="Python tests.Python tests for test_task04.test_ebay_function" />
+        <item itemvalue="Python tests.Python tests for test_lab005.Test_loginpage.test_open_login" />
+        <item itemvalue="Python tests.Python tests in test_task04.py" />
+        <item itemvalue="Python tests.Python tests in test_Task3.py" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +200,20 @@
       <option name="presentableId" value="Default" />
       <updated>1713017435740</updated>
     </task>
+    <task id="LOCAL-00001" summary="Xpath">
+      <option name="closed" value="true" />
+      <created>1713770961171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713770961171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Xpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="Xpath" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
