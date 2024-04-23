@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="Xpath">
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_task04.py" afterDir="false" />
+    <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="XPATH and CSS SELECTOR">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/22-04-2024/test_task04.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/22-04-2024/test_task04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\12_April_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Task3.test_reg_Negative">
+  <component name="RunManager" selected="Python tests.Python tests for test_task04.test_ebay_function">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
@@ -176,8 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Task3.test_reg_Negative" />
         <item itemvalue="Python tests.Python tests for test_task04.test_ebay_function" />
+        <item itemvalue="Python tests.Python tests for test_Task3.test_reg_Negative" />
         <item itemvalue="Python tests.Python tests for test_lab005.Test_loginpage.test_open_login" />
         <item itemvalue="Python tests.Python tests in test_task04.py" />
         <item itemvalue="Python tests.Python tests in test_Task3.py" />
@@ -208,12 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713770961171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="XPATH and CSS SELECTOR">
+      <option name="closed" value="true" />
+      <created>1713855429891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713855429891</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Xpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="Xpath" />
+    <MESSAGE value="XPATH and CSS SELECTOR" />
+    <option name="LAST_COMMIT_MESSAGE" value="XPATH and CSS SELECTOR" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

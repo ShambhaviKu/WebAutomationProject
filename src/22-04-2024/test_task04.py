@@ -20,6 +20,8 @@ def test_ebay_function():
     search_btn_element = driver.find_element(By.XPATH, "//input[@id='gh-btn']")
     search_btn_element.click()
 
+    allure.attach(driver.get_screenshot_as_png(), name="Screnshot", attachment_type= AttachmentType)
+
     list_of_elements = driver.find_elements(By.XPATH, "//span[@role='heading']")
 
     for product in list_of_elements:
