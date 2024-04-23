@@ -37,6 +37,7 @@ def test_ebay_function():
         prize.append(x)
 
     prize.sort()
+
     #min_price = prize[1]
     print(f"cheapest price is {prize[1]}")
 
