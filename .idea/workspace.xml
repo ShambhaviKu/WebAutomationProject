@@ -5,15 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="chnages">
-      <change afterPath="$PROJECT_DIR$/allure-results/0204dced-3a64-48cd-8c34-4ff8561fb140-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/511e3033-f0ba-4d84-8661-438b6b475a6c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7782814e-8512-4ea4-8d53-a65603cd397b-attachment.attach" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9e0b8a4a-df97-48ae-b10b-c38ac89973b3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c95ae93d-e25a-4170-b5ae-f0dcba94e834-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d2504863-e332-40a6-a6d6-09e89a1e3dd0-attachment.attach" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/172ea039-40b0-4888-9c2f-e39d8c918432-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/298958f2-1069-4fcb-bcf1-847fb258ded2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30a60cb8-3d33-4798-ab80-a976fe86385e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47d2a71e-328b-4c94-8504-79ea7d242b85-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68b85c64-c070-4d08-a988-6f3467bf9c1b-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/732d960b-84b7-4a10-a5da-5a4e9cf9e370-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7adcb5eb-ce64-4c77-8146-07850cf5d5c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a380507a-0889-4ee8-a9f4-c13b35a25c2d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1f6a6e8-76ef-4aeb-945e-635c8766d2e8-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e192d64c-8957-4ae0-939a-4fc291a76efa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8b4a512-9eee-4c66-a5b3-813104919271-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fec032d0-6e0e-4fce-abd8-a2906a64cdab-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/22-04-2024/test_Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/22-04-2024/test_lab005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/01454ecc-25bb-4d39-b829-a34caa6cc7f8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0204dced-3a64-48cd-8c34-4ff8561fb140-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/446cd1ae-d351-4374-b6f1-9754d10ce7a7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4bd5dee5-e252-4012-9e5f-934ddd82ac08-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/511e3033-f0ba-4d84-8661-438b6b475a6c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5a0edbc0-f701-421b-a5f1-2624a806bf62-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/61c574c3-ead6-45a9-b8f7-2130e3ea320c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7782814e-8512-4ea4-8d53-a65603cd397b-attachment.attach" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/1b010c7a-811d-4570-a62f-be9eeccb483d-attachment.attach" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9e0b8a4a-df97-48ae-b10b-c38ac89973b3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b56d2fb7-cc51-44cf-a019-a92be1ea6737-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c95ae93d-e25a-4170-b5ae-f0dcba94e834-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/7bdbf72b-69fb-45c0-8646-52a8b3899a33-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d2504863-e332-40a6-a6d6-09e89a1e3dd0-attachment.attach" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/5ce64f56-6eb2-4565-b95c-6e97b1f124d0-attachment.attach" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f5b949ce-052c-41ed-9116-8256de8491c8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/19-04-2024/test_Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/19-04-2024/test_Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,33 +65,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_Lab001.test_katalon_login.executor": "Run",
-    "Python tests.Python tests for test_Lab001.test_print_logs.executor": "Run",
-    "Python tests.Python tests for test_Lab002.test_loginVWO.executor": "Run",
-    "Python tests.Python tests for test_Lab002.test_reg_Negative.executor": "Run",
-    "Python tests.Python tests for test_Lab002.test_registarion_Negative.executor": "Run",
-    "Python tests.Python tests for test_Lab003.test_loginFUnc.executor": "Run",
-    "Python tests.Python tests for test_Lab004.test_vwoLogin_negative.executor": "Run",
-    "Python tests.Python tests for test_Lab005.test_task1.executor": "Run",
-    "Python tests.Python tests for test_Task3.test_reg_Negative.executor": "Run",
-    "Python tests.Python tests for test_lab005.Test_loginpage.test_open_login.executor": "Run",
-    "Python tests.Python tests for test_task04.test_ebay_function.executor": "Run",
-    "Python tests.Python tests in test_Lab001.py (1).executor": "Run",
-    "Python tests.Python tests in test_Lab001.py.executor": "Run",
-    "Python tests.Python tests in test_Lab002.py.executor": "Run",
-    "Python tests.Python tests in test_Lab003.py (1).executor": "Run",
-    "Python tests.Python tests in test_Lab003.py.executor": "Run",
-    "Python tests.Python tests in test_task04.py.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alate/PycharmProjects/WebAutomationProject/src/22-04-2024",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Lab001.test_katalon_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab001.test_print_logs.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab002.test_loginVWO.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab002.test_reg_Negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab002.test_registarion_Negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab002.test_vwoLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab003.test_loginFUnc.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab003.test_table_ops.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab004.test_actions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab004.test_vwoLogin_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab005.test_mouse_interactions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab005.test_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Task3.test_reg_Negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab005.Test_loginpage.test_open_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_task04.test_ebay_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab001.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab003.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab003.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_task04.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alate/PycharmProjects/WebAutomationProject/src/22-04-2024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\22-04-2024" />
@@ -79,7 +104,7 @@
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\12_April_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_task04.test_ebay_function">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab005.test_mouse_interactions">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
@@ -102,22 +127,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Task3.test_reg_Negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab002.test_vwoLogin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/19-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Task3.test_reg_Negative&quot;" />
+      <option name="_new_target" value="&quot;test_Lab002.test_vwoLogin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab005.Test_loginpage.test_open_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab003.test_table_ops" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +153,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab005.Test_loginpage.test_open_login&quot;" />
+      <option name="_new_target" value="&quot;test_Lab003.test_table_ops&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_task04.test_ebay_function" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab004.test_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +168,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_task04.test_ebay_function&quot;" />
+      <option name="_new_target" value="&quot;test_Lab004.test_actions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Task3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab005.test_mouse_interactions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,32 +183,32 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/22-04-2024/test_Task3.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_Lab005.test_mouse_interactions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_task04.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab001.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22-04-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/19-04-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/22-04-2024/test_task04.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/19-04-2024/test_Lab001.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_task04.test_ebay_function" />
-        <item itemvalue="Python tests.Python tests for test_Task3.test_reg_Negative" />
-        <item itemvalue="Python tests.Python tests for test_lab005.Test_loginpage.test_open_login" />
-        <item itemvalue="Python tests.Python tests in test_task04.py" />
-        <item itemvalue="Python tests.Python tests in test_Task3.py" />
+        <item itemvalue="Python tests.Python tests for test_Lab005.test_mouse_interactions" />
+        <item itemvalue="Python tests.Python tests for test_Lab004.test_actions" />
+        <item itemvalue="Python tests.Python tests for test_Lab003.test_table_ops" />
+        <item itemvalue="Python tests.Python tests in test_Lab001.py" />
+        <item itemvalue="Python tests.Python tests for test_Lab002.test_vwoLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713856623256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chnages">
+      <option name="closed" value="true" />
+      <created>1713862273632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713862273632</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

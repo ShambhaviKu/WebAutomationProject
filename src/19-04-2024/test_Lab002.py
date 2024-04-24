@@ -28,8 +28,8 @@ def test_vwoLogin():
     # data-qa="hocewoqisi"  # Custom Attribute
     # >
 
-    # login_username = driver.find_element(By.XPATH, "//input[@id='login-username']")
-    login_username = driver.find_element(By.XPATH, "//input[data-qa='hocewoqisi']")
+    login_username = driver.find_element(By.XPATH, "//input[@id='login-username']")
+   #  login_username = driver.find_element(By.XPATH, "//input[data-qa='hocewoqisi']")
     login_username.send_keys('admin')
 
     allure.attach(driver.get_screenshot_as_png(), name='login-screenshot', attachment_type=AttachmentType.PNG)
