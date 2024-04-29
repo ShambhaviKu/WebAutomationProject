@@ -17,7 +17,9 @@ def test_reg_Negative():
     driver.maximize_window()
     time.sleep(3)
 
-    driver.switch_to.frame(driver.find_element(By.ID, "result"))
+    iframe = driver.find_element(By.ID, "result")
+
+    driver.switch_to.frame(iframe)
 
     email_element = driver.find_element(By.XPATH, "//input[@id='email']")
     email_element.send_keys("shambhavikulkarni@gmail.com")

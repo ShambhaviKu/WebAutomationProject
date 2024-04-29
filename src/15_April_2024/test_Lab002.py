@@ -4,7 +4,6 @@ import time
 from selenium import webdriver
 import allure
 
-
 def test_login():
     driver = webdriver.Chrome()
     driver.get("https://bing.com/chat")
