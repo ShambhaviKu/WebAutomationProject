@@ -5,32 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a69123-b168-4616-9b92-00ac7ecf4298" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/allure-results/23fe348d-1154-47d4-8547-98c0070fb76a-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/52c01000-5102-41cf-a0f9-adf85b34bd79-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5da5d2f1-c6f1-485a-891f-6a3f7e466fb5-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/625ced84-e0db-4c53-8f25-0a5faf19b321-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/710fb551-d9b5-4501-98ff-65b3a39ff1e8-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9c2bf235-2a39-4fb6-818b-af5822237015-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a88e49c4-261d-4594-b17d-2f8e6c610e6b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cfe66dd3-1972-4930-bbb5-88d6f5ba3f4a-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab0010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22-04-2024/test_MakeMyTrip_Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24_April_2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24_April_2024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24_April_2024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/24_April_2024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26-04-2024/DDT_webAutomation.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26-04-2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26-04-2024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26-04-2024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26-04-2024/test_orangeHRM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26-04-2024/test_orangeHRM2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c46ae591-a608-4a09-b866-c7441204ef4d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d0e8fd09-01ee-4e8b-8320-bc7e067c4c2f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d26c16f7-c0f0-4ec8-b245-f06d7d7aebdc-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb136f4c-7c3a-4de8-8f08-d65f2a4a83c4-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ed7b0a79-7c5f-4a7d-8644-42a2ec5aeca5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0a58749-00cc-42a0-86ae-e7cc366e850e-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/15_April_2024/test_Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/15_April_2024/test_Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/22-04-2024/test_Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/22-04-2024/test_Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/26-04-2024/test_orangeHRM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/26-04-2024/test_orangeHRM_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/26-04-2024/test_orangeHRM2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/26-04-2024/test_orangeHRM2_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +76,8 @@
     "Python tests.Python tests for test_lab005.Test_loginpage.test_open_login.executor": "Run",
     "Python tests.Python tests for test_orangeHRM.test_login_positive.executor": "Run",
     "Python tests.Python tests for test_orangeHRM2.test_user_ops.executor": "Run",
+    "Python tests.Python tests for test_orangeHRM2_search.test_user_ops.executor": "Run",
+    "Python tests.Python tests for test_orangeHRM_NEW.test_open_OrangeHRM.executor": "Run",
     "Python tests.Python tests for test_task04.test_ebay_function.executor": "Run",
     "Python tests.Python tests in test_Lab001.py (1).executor": "Run",
     "Python tests.Python tests in test_Lab001.py.executor": "Run",
@@ -103,6 +88,7 @@
     "Python tests.Python tests in test_Lab008.py.executor": "Run",
     "Python tests.Python tests in test_orangeHRM.py.executor": "Run",
     "Python tests.Python tests in test_orangeHRM2.py.executor": "Run",
+    "Python tests.Python tests in test_orangeHRM2_search.py.executor": "Run",
     "Python tests.Python tests in test_task04.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -123,7 +109,7 @@
       <recent name="C:\Users\alate\PycharmProjects\WebAutomationProject\src\26-04-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_orangeHRM2.test_user_ops">
+  <component name="RunManager" selected="Python tests.Python tests for test_orangeHRM2_search.test_user_ops">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
@@ -161,7 +147,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab002.test_Vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_orangeHRM2_search.test_user_ops" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab002.test_Vwo_login&quot;" />
+      <option name="_new_target" value="&quot;test_orangeHRM2_search.test_user_ops&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -191,22 +177,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab001.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="WebAutomationProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/26-April-2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/26-04-2024/test_Lab001.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_Lab002.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_orangeHRM_NEW.test_open_OrangeHRM" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="WebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,17 +188,32 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/26-04-2024/test_Lab002.py&quot;" />
+      <option name="_new_target" value="&quot;test_orangeHRM_NEW.test_open_OrangeHRM&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_orangeHRM2_search.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/26-04-2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/26-04-2024/test_orangeHRM2_search.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_orangeHRM2_search.test_user_ops" />
+        <item itemvalue="Python tests.Python tests in test_orangeHRM2_search.py" />
+        <item itemvalue="Python tests.Python tests for test_orangeHRM_NEW.test_open_OrangeHRM" />
         <item itemvalue="Python tests.Python tests for test_orangeHRM2.test_user_ops" />
         <item itemvalue="Python tests.Python tests for test_Lab001.test_vwo_login_positive" />
-        <item itemvalue="Python tests.Python tests in test_Lab002.py" />
-        <item itemvalue="Python tests.Python tests for test_Lab002.test_Vwo_login" />
-        <item itemvalue="Python tests.Python tests in test_Lab001.py" />
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +309,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/24_April_2024/test_Lab002.py</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/26-04-2024/test_orangeHRM2_search.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
