@@ -68,7 +68,6 @@ def test_user_ops():
 
     allure.attach(driver.get_screenshot_as_png(), name="UserCreation_screenshot", attachment_type=AttachmentType.PNG)
 
-
     time.sleep(10)
 
     # search user

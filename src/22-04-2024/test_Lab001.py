@@ -34,7 +34,7 @@ def test_katalon_login():
   # XPATH using Starts-with & ends-with
 
   # //a[starts-with(text(),'Make')]
-  # //a[endss-with(text(),'Appointment')]
+  # //a[ends-with(text(),'Appointment')]
 
   # XPATH using and and or
 
